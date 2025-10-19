@@ -39,11 +39,11 @@ Após o upload de uma imagem de cartão, a aplicação exibe o resultado da vali
 
 ## ⚙️ Bibliotecas a serem instaladas na Venv (PIP)
 
-azure.core
-azure-ai-documentintelligence
-azure-storage-blob
-python-dotenv
-streamlit
+- azure.core
+- azure-ai-documentintelligence
+- azure-storage-blob
+- python-dotenv
+- streamlit
 
 ## ⚙️ Como executar o projeto
 
