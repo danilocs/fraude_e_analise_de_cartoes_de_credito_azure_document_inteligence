@@ -1,0 +1,1 @@
+# fraude_e_analise_de_cartoes_de_credito_azure_document_inteligence
